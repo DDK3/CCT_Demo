@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CCT_Demo</string>
+    <string name="google_maps_key">AIzaSyD8_62Q56YbpMM5rNn7lmKZqQA4bspepGg</string>
+    <string name="see_location_timeline_history">See Location timeline history</string>
+    <string name="text_name">Mumbai</string>
+    <string name="text_date">13/07/2012</string>
+    <string name="enter_note">Enter note</string>
+</resources>
